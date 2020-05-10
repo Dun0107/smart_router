@@ -6,8 +6,10 @@
 
    1. 메인 페이지 수정
 
-      1. ![	1589098964587](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589098964587.png)
-      2. ![1589098979796](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589098981556.png)
+      ![image](https://user-images.githubusercontent.com/40848202/81501631-674dc380-9314-11ea-9562-228fe48b1794.png)
+      
+      ![image](https://user-images.githubusercontent.com/40848202/81501650-7df41a80-9314-11ea-8736-e945c77680d1.png)
+
       3. ![1589099002875](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099002875.png)
       4. ![1589099134795](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099134795.png)
 
