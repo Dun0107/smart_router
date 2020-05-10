@@ -10,37 +10,39 @@
       
       ![image](https://user-images.githubusercontent.com/40848202/81501650-7df41a80-9314-11ea-8736-e945c77680d1.png)
 
-      3. ![1589099002875](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099002875.png)
-      4. ![1589099134795](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099134795.png)
+      ![image](https://user-images.githubusercontent.com/40848202/81501668-93694480-9314-11ea-99d4-679d86374016.png)
+      
+      ![image](https://user-images.githubusercontent.com/40848202/81501672-9bc17f80-9314-11ea-9652-c9c94103b713.png)
 
    2. 로그인 
 
-      1. ![1589099111912](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099111912.png)
+      ![image](https://user-images.githubusercontent.com/40848202/81501678-a11eca00-9314-11ea-8785-20d9c86323f9.png)
+      
 
    3. 빠른 설치
 
-      1. ![1589099168421](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099168421.png)
+      ![image](https://user-images.githubusercontent.com/40848202/81501692-a9770500-9314-11ea-9653-bc5c9cc62a53.png)
+      
+      ![image](https://user-images.githubusercontent.com/40848202/81501700-aed44f80-9314-11ea-9aac-801e96d4eb74.png)
 
-      2. ![1589099184559](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099184559.png)
+      ![image](https://user-images.githubusercontent.com/40848202/81501702-b562c700-9314-11ea-96ef-416f40436cb0.png)
 
-      3. ![1589099207122](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099207122.png)
-
-      4. ![1589099268691](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099268691.png)
+      ![image](https://user-images.githubusercontent.com/40848202/81501707-bac01180-9314-11ea-8fdf-675afa0fe61b.png)
 
          (저장 내용 값 앞부분이 안 넘어오는 것 수정해야됨)
 
       5. 메뉴바 
 
-         1. ![1589099346983](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099346983.png)
-         2. ![1589099327145](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099327145.png)
+        ![image](https://user-images.githubusercontent.com/40848202/81501717-c27fb600-9314-11ea-9fca-f0ec173a8440.png)
+         ![image](https://user-images.githubusercontent.com/40848202/81501722-c7446a00-9314-11ea-9b6f-37219a9733c5.png)
 
       6. 계정 관리 
 
-         1. ![1589099619632](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099619632.png)
+         ![image](https://user-images.githubusercontent.com/40848202/81501732-d0cdd200-9314-11ea-88d5-fd1a7584c184.png)
 
       7. 코드 업로드 (<https://github.com/Dun0107/project_web>)
 
-         1. ![1589099847536](C:\Users\박지윤\AppData\Roaming\Typora\typora-user-images\1589099847536.png)
+        ![image](https://user-images.githubusercontent.com/40848202/81501737-d7f4e000-9314-11ea-936b-9986f9efca65.png)
 
 #### 다음 주 진행 할 내용
 
