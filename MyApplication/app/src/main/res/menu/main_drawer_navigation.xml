@@ -1,45 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
     <item
-        android:id="@+id/account"
+        android:id="@+id/item1"
         android:icon="@drawable/airport"
         android:title="빠른 설치" />
 
-    <item android:id = "@+id/item3"
+    <item android:id = "@+id/item2"
         android:icon = "@drawable/computer"
         android:title = "네트워크"
         />
 
-    <item android:id = "@+id/item4"
+    <item android:id = "@+id/item3"
         android:icon = "@drawable/wifi"
         android:title = "무선"
         />
-    <item android:id = "@+id/item6"
+    <item android:id = "@+id/item4"
         android:icon = "@drawable/vpn"
         android:title = "VPN서버"
         />
-    <item android:id = "@+id/item7"
+    <item android:id = "@+id/item5"
         android:icon = "@drawable/security"
         android:title = "보안"
         />
-    <item android:id = "@+id/item8"
+    <item android:id = "@+id/item6"
         android:icon = "@drawable/parent"
         android:title = "보호자 제어"
         />
-    <item android:id = "@+id/item9"
+    <item android:id = "@+id/item7"
         android:icon = "@drawable/qos"
         android:title = "QoS"
         />
-    <item android:id = "@+id/item10"
+    <item android:id = "@+id/item8"
     android:icon = "@drawable/nat"
     android:title = "NAT 포워딩"
         />
-    <item android:id = "@+id/item11"
+    <item android:id = "@+id/item9"
         android:icon = "@drawable/ipv6"
         android:title = "IPv6"
         />
-    <item android:id = "@+id/item12"
+    <item android:id = "@+id/item10"
         android:icon = "@drawable/system"
         android:title = "시스템 도구"
         />
+    </group>
 </menu>
