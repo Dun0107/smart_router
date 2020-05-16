@@ -9,4 +9,8 @@
         <!-- 상태바 색상-->
         <item name="android:statusBarColor" tools:targetApi="lollipop">#33D59F9F</item>
     </style>
+    <!--splash 화면에 사용될 테마-->
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/intro</item>
+    </style>
 </resources>

@@ -4,18 +4,10 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MenuItem
-import android.widget.Toast
-import android.app.Activity
-import android.util.Log
-import androidx.annotation.IdRes
 import androidx.core.view.GravityCompat
-import androidx.fragment.app.Fragment
 import com.google.android.material.navigation.NavigationView
 import kotlinx.android.synthetic.main.main_toolbar.*
 import kotlinx.android.synthetic.main.activity_main.*
-import android.view.Menu;
-
-
 
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
@@ -42,10 +34,26 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
     override fun onNavigationItemSelected(item: MenuItem): Boolean {
         when(item.itemId){
-            R.id.item1-> { val item1Intent = Intent(this, SubActivity::class.java)
-            startActivity(item1Intent)}
-            R.id.item2-> Toast.makeText(this,"item4 clicked",Toast.LENGTH_SHORT).show()
-            R.id.item3-> Toast.makeText(this,"item3 clicked",Toast.LENGTH_SHORT).show()
+            R.id.item1-> { val item1Intent = Intent(this, FastActivity::class.java)
+                startActivity(item1Intent)}
+            R.id.item2-> { val item2Intent = Intent(this, Sub2Activity::class.java)
+                startActivity(item2Intent)}
+            R.id.item3-> { val item3Intent = Intent(this, Sub3Activity::class.java)
+                startActivity(item3Intent)}
+            R.id.item4-> { val item4Intent = Intent(this, Sub4Activity::class.java)
+                startActivity(item4Intent)}
+            R.id.item5-> { val item5Intent = Intent(this, Sub5Activity::class.java)
+                startActivity(item5Intent)}
+            R.id.item6-> { val item6Intent = Intent(this, Sub6Activity::class.java)
+                startActivity(item6Intent)}
+            R.id.item7-> { val item7Intent = Intent(this, Sub7Activity::class.java)
+                startActivity(item7Intent)}
+            R.id.item8-> { val item8Intent = Intent(this, Sub8Activity::class.java)
+                startActivity(item8Intent)}
+            R.id.item9-> { val item9Intent = Intent(this, Sub9Activity::class.java)
+                startActivity(item9Intent)}
+            R.id.item10-> { val item10Intent = Intent(this, Sub10Activity::class.java)
+                startActivity(item10Intent)}
         }
         return false
     }

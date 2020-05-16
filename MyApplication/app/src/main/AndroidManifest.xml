@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.myapplication">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,16 +11,29 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
-        <activity android:name=".first" />
-        <activity android:name=".MainActivity">
+        <!--Splash Activity-->
+        <activity android:name=".SplashActivity"
+            android:theme="@style/SplashTheme">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".SubActivity"></activity>
+        <activity
+            android:name=".MainActivity" />
+        <!--Splash Activity-->
+        <activity android:name=".SignUpActivity"/>
+        <activity android:name=".SubActivity" />
+        <activity android:name=".Sub10Activity" />
+        <activity android:name=".Sub9Activity" />
+        <activity android:name=".Sub8Activity" />
+        <activity android:name=".Sub7Activity" />
+        <activity android:name=".Sub5Activity" />
+        <activity android:name=".Sub6Activity" />
+        <activity android:name=".Sub4Activity" />
+        <activity android:name=".Sub3Activity" />
+        <activity android:name=".Sub2Activity" />
+        <activity android:name=".FastActivity" />
     </application>
 
 </manifest>
