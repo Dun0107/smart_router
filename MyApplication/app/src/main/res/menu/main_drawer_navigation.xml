@@ -11,41 +11,26 @@
         android:title="빠른 설치" />
 
     <item android:id = "@+id/item2"
-        android:icon = "@drawable/computer"
-        android:title = "네트워크"
+        android:icon = "@drawable/wifi"
+        android:title = "무선 설정"
         />
 
     <item android:id = "@+id/item3"
-        android:icon = "@drawable/wifi"
-        android:title = "무선"
+        android:icon = "@drawable/computer"
+        android:title = "네트워크"
         />
     <item android:id = "@+id/item4"
         android:icon = "@drawable/vpn"
-        android:title = "VPN서버"
+        android:title = "ARP 스푸핑"
         />
     <item android:id = "@+id/item5"
         android:icon = "@drawable/security"
-        android:title = "보안"
+        android:title = "SNI 우회"
         />
+
     <item android:id = "@+id/item6"
-        android:icon = "@drawable/parent"
-        android:title = "보호자 제어"
-        />
-    <item android:id = "@+id/item7"
-        android:icon = "@drawable/qos"
-        android:title = "QoS"
-        />
-    <item android:id = "@+id/item8"
-    android:icon = "@drawable/nat"
-    android:title = "NAT 포워딩"
-        />
-    <item android:id = "@+id/item9"
-        android:icon = "@drawable/ipv6"
-        android:title = "IPv6"
-        />
-    <item android:id = "@+id/item10"
         android:icon = "@drawable/system"
-        android:title = "시스템 도구"
+        android:title = "추가 기능"
         />
     </group>
 </menu>

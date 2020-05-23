@@ -46,14 +46,6 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                 startActivity(item5Intent)}
             R.id.item6-> { val item6Intent = Intent(this, Sub6Activity::class.java)
                 startActivity(item6Intent)}
-            R.id.item7-> { val item7Intent = Intent(this, Sub7Activity::class.java)
-                startActivity(item7Intent)}
-            R.id.item8-> { val item8Intent = Intent(this, Sub8Activity::class.java)
-                startActivity(item8Intent)}
-            R.id.item9-> { val item9Intent = Intent(this, Sub9Activity::class.java)
-                startActivity(item9Intent)}
-            R.id.item10-> { val item10Intent = Intent(this, Sub10Activity::class.java)
-                startActivity(item10Intent)}
         }
         return false
     }
